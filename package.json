@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-todolist",
+  "version": "1.0.0",
+  "description": "学习使用react-redux",
+  "keywords": [
+    "react-redux",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "antd": "3.8.4",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-redux": "5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
